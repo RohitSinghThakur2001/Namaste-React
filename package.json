@@ -1,0 +1,28 @@
+{
+  "name": "react1",
+  "version": "1.0.0",
+  "description": "this is the practicing project ",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RohitSinghThakur2001/Namaste-React.git"
+  },
+  "keywords": [],
+  "author": "rohit singh thakur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RohitSinghThakur2001/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/RohitSinghThakur2001/Namaste-React#readme",
+  "devDependencies": {
+    "parcel": "^2.16.4",
+    "react": "^19.2.5",
+     "react-dom": "^19.2.5"
+  },
+  "dependencies": {
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5"
+  }
+}
